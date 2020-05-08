@@ -1,0 +1,16 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center
+}
+
+a {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
